@@ -1,0 +1,6 @@
+and $s1, $s2
+or $s2, $s3
+Add $s3, $s1, $s2
+Sub $s1, $s2, $s0
+addi $s1, $s3, 5
+subi $s1, $s3, 5
