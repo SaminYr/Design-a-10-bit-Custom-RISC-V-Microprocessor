@@ -1,1 +1,0 @@
-# Design-a-10-bit-Custom-RISC-V-Microprocessor
